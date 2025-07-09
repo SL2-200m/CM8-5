@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+    <!-- 
+    ============================================================
+    Homepage (with all specified language alternatives)
+    - Priority is set to 1.0 as it's the main page.
+    - The xhtml:link elements are taken directly from your HTML's hreflang tags.
+    - This tells search engines about all international versions of your homepage.
+    ============================================================
+    -->
+    <url>
+        <loc>https://example.com/</loc>
+        <lastmod>2024-05-21T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de" />
+        <xhtml:link rel="alternate" hreflang="zh" href="https://example.com/zh" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://example.com/ar" />
+        <xhtml:link rel="alternate" hreflang="pt" href="https://example.com/pt" />
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it" />
+        <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko" />
+        <xhtml:link rel="alternate" hreflang="id" href="https://example.com/id" />
+        <xhtml:link rel="alternate" hreflang="th" href="https://example.com/th" />
+        <xhtml:link rel="alternate" hreflang="vi" href="https://example.com/vi" />
+        <xhtml:link rel="alternate" hreflang="tr" href="https://example.com/tr" />
+        <xhtml:link rel="alternate" hreflang="hi" href="https://example.com/hi" />
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://example.com/zh-tw" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://example.com/zh-cn" />
+        <xhtml:link rel="alternate" hreflang="uk" href="https://example.com/uk" />
+    </url>
+
+    <!-- 
+    ============================================================
+    Main Navigation & Core Pages
+    - These are the primary sections of your site linked in the header.
+    ============================================================
+    -->
+    <url>
+        <loc>https://example.com/discover</loc>
+        <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://example.com/trips</loc>
+        <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://example.com/review</loc>
+        <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- 
+    ============================================================
+    Breadcrumb / Category Pages
+    - These URLs are inferred from the breadcrumb navigation.
+    ============================================================
+    -->
+    <url>
+        <loc>https://example.com/asia</loc>
+        <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://example.com/asia/sri-lanka</loc>
+        <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://example.com/asia/sri-lanka/things-to-do</loc>
+        <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 
+    ============================================================
+    Footer & Other Informational Pages
+    - These pages are important for trust and information.
+    ============================================================
+    -->
+    <url>
+        <loc>https://example.com/about-us</loc>
+        <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://example.com/careers</loc>
+        <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://example.com/press</loc>
+        <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://example.com/help-centre</loc>
+        <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+     <url>
+        <loc>https://example.com/terms-of-use</loc>
+        <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+     <url>
+        <loc>https://example.com/privacy</loc>
+        <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+
+</urlset>
