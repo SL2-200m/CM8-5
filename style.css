@@ -334,7 +334,6 @@
             font-size: 1.25rem;
             font-weight: 600;
             margin-bottom: 5px;
-            color: #007bff;
         }
         .listing-rating {
             display: flex;
@@ -366,9 +365,6 @@
         }
         .listing-review-text {
             color: var(--tp-text-light);
-        }
-        .listing-review-text a {
-            color:#007bff;
         }
         .listing-review-text strong {
             font-weight: 600;
